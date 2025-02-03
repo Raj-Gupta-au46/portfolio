@@ -28,7 +28,7 @@ const Footer = () => {
         })}
       </div>
       <p className="text-gray-300 text-center text-sm">
-        Created with ❤️ using Next.js
+        Thanks For Visiting !! ❤️ 
       </p>
     </div>
   );
