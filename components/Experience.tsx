@@ -18,7 +18,8 @@ const Experience = () => {
           <p className="text-gray-300">April 2023 - May 2024, Bhubaneswar</p>
         </div>
         <p className="text-gray-300 pt-5">
-          I am worked in SearchingYard Software Group, as a Software Developer
+          I was employed as a Software Developer at SearchingYard Software
+          Group.
           <br />
           <br />
           With a solid background in backend development using Node.js, I have
