@@ -21,9 +21,12 @@ const Projects = () => {
           >
             <div className="flex-row flex">
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">StreamStudent</p>
+                <p className="text-white font-semibold text-xl">
+                  StreamStudent
+                </p>
                 <p className="text-gray-500 text-[10px]">
-                  Designed a modern UI website code backend with handling all edge cases.
+                  Designed a modern UI website code backend with handling all
+                  edge cases.
                 </p>
               </div>
             </div>
@@ -38,7 +41,8 @@ const Projects = () => {
               <div className="p-4">
                 <p className="text-white font-semibold text-xl">Prizen</p>
                 <p className="text-gray-500 text-[10px]">
-                  Developed a server-side code of web application on nodejs that allows users to introduce new features for e-commerce.
+                  Developed a server-side code of web application on nodejs that
+                  allows users to introduce new features for e-commerce.
                 </p>
               </div>
             </div>
@@ -55,7 +59,8 @@ const Projects = () => {
               <div className="p-3">
                 <p className="text-white font-semibold text-xl">IamJunion</p>
                 <p className="text-gray-500 text-[10px]">
-                  Developed the server-side code of Verge Systems website using nodejs.
+                  Developed the server-side code of ERP Systems website using
+                  nodejs.
                 </p>
               </div>
             </div>
@@ -70,7 +75,8 @@ const Projects = () => {
               <div className="p-3">
                 <p className="text-white font-semibold text-xl">Montaj.At</p>
                 <p className="text-gray-500 text-[10px]">
-                  Designed the server-side code of Montaj.At website using nodejs for an affiliate marketing company.
+                  Designed the server-side code of Montaj.At website using
+                  nodejs for an affiliate marketing company.
                 </p>
               </div>
             </div>
@@ -80,7 +86,8 @@ const Projects = () => {
           <div className="p-3">
             <p className="text-white font-semibold text-xl">Solar Monitoring</p>
             <p className="text-gray-500 text-[10px]">
-              Developed a server-side code of web application on nodejs that allows users to introduce new features for solar monitoring.
+              Developed a server-side code of web application on nodejs that
+              allows users to introduce new features for solar monitoring.
             </p>
           </div>
         </div>
@@ -88,7 +95,28 @@ const Projects = () => {
           <div className="p-3">
             <p className="text-white font-semibold text-xl">AQMS</p>
             <p className="text-gray-500 text-[10px]">
-              Developed a server-side code of application on nodejs that allows users to introduce new features for air quality monitoring.
+              Developed a server-side code of application on nodejs that allows
+              users to introduce new features for air quality monitoring.
+            </p>
+          </div>
+        </div>
+        <div className="flex-row flex mb-5">
+          <div className="p-3">
+            <p className="text-white font-semibold text-xl">ESS Logiq</p>
+            <p className="text-gray-500 text-[10px]">
+              Developed a server-side code of application on nodejs that allows
+              users to monitor new features for wind and air power plant
+              monitoring.
+            </p>
+          </div>
+        </div>
+        <div className="flex-row flex mb-5">
+          <div className="p-3">
+            <p className="text-white font-semibold text-xl">RECD</p>
+            <p className="text-gray-500 text-[10px]">
+              Developed a server-side code of application on nodejs that allows
+              users to monitor new features for Retrofit Emission Control Device
+              (RECD).
             </p>
           </div>
         </div>

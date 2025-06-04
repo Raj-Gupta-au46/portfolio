@@ -18,15 +18,16 @@ const Experience = () => {
           <p className="text-gray-300">April 2023 - May 2024, Bhubaneswar</p>
         </div>
         <p className="text-gray-300 pt-5">
-          Currently, I am working in SearchingYard Software Group, as a Software
-          Developer
+          I am worked in SearchingYard Software Group, as a Software Developer
           <br />
           <br />
-          My experience with backend in Nodejs has allowed me to develop
-          cross-platform mobile and web applications that run seamlessly on both
-          iOS and Android platforms.I have a deep understanding of system
-          architecture , servers and databases, and I am well-versed in the
-          latest web development trends and technologies.
+          With a solid background in backend development using Node.js, I have
+          successfully engineered cross-platform applications that function
+          smoothly across both iOS and Android devices. My expertise spans
+          system architecture design, server-side operations, and database
+          management. I continuously explore emerging technologies and modern
+          development practices to deliver high-performing, future-ready digital
+          solutions.
         </p>
         <div className="flex-col flex sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">

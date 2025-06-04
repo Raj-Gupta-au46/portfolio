@@ -25,9 +25,9 @@ const Banner = () => {
           🍿
         </p>
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-          Passionate Software Engineer with a focus on Backend development,
-          dedicated to crafting elegant and user-friendly web and mobile
-          applications.
+          Passionate Software Engineer with a focus on Backend and Frontend
+          development, dedicated to crafting elegant and user-friendly web and
+          mobile applications.
         </p>
 
         <div className="text-md flex justify-center relative">
