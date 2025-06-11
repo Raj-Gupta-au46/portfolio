@@ -3,6 +3,8 @@ import React from "react";
 const Experience = () => {
   // adding states
 
+  // for the experience section, we will use a functional component
+
   return (
     <section id="experience">
       <h1 className="text-white font-semibold text-center text-6xl   pt-[35px]">
