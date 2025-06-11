@@ -1,6 +1,8 @@
 import React from "react";
 
 const Experience = () => {
+  // adding states
+
   return (
     <section id="experience">
       <h1 className="text-white font-semibold text-center text-6xl   pt-[35px]">
